@@ -1,0 +1,22 @@
+.opciones{
+    margin: 24px 0;
+    padding:1rem;
+}
+
+.opciones label{
+    display: block;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 1rem;
+}
+
+.opciones select{
+width:100%;
+padding:1rem;
+margin: 0 auto;
+background-color: #ffffff;
+outline-color: blue;
+border:none;
+border-radius: 2rem;
+box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.25);
+}
