@@ -32,6 +32,7 @@ width:40%;
 justify-content: center;
 align-items: center;
 
+
 }
 .header_btn {
     width: 30%;
@@ -41,4 +42,10 @@ align-items: center;
     font-size: 16px;
     background-color: black;
     border-radius: 2rem;
+    
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
 }

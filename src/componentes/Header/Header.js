@@ -1,4 +1,5 @@
 import "./Header.css"
+import {Link} from "react-router-dom"
 
 function Header() {
     return <header className="header">
@@ -7,8 +8,8 @@ function Header() {
         <h1> Aluraflix Grappling</h1>
         </div>
         <div class="botones">
-        <button class="header_btn"> Home</button>
-        <button class="header_btn"> Nuevo video</button>
+        <button class="header_btn"><Link to="./"> Home</Link></button>
+        <button class="header_btn"><Link to="./nuevo"> Nuevo video</Link></button>
         </div>
     </header>
 }
