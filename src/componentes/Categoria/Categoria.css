@@ -1,0 +1,14 @@
+.supercategoria{
+    font-weight: 1rem;
+    background-color: tomato;
+    margin:2rem;
+    padding:2rem;
+}
+
+.supercategoria h2{
+    font-weight: 1 rem;
+    background-color: green;
+    display: inline;
+    border-radius: 10%;
+    padding:1rem;
+}
